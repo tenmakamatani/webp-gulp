@@ -1,2 +1,2 @@
 # webp-gulp
-## translate image into webp
+## covert image into webp
